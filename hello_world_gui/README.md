@@ -1,12 +1,12 @@
 # Hello World GUI – Python
 
-Aplicație desktop simplă realizată în Python folosind Tkinter.
-Afișează un mesaj "Hello World" la apăsarea unui buton.
+Simple desktop Python app made using Tkinter.
+This prints "Hello World" when the UI button is pressed.
 
-## Tehnologii
+## Technologies
 - Python 3
 - Tkinter
 
-## Rulare
+## Run
 ```bash
 python3 main.py
